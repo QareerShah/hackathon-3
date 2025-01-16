@@ -1,4 +1,4 @@
-# Marketplace Technical Foundation - General E-Commerce
+# Marketplace Technical Foundation - [General E-Commerce]
 
 ## 1. System Architecture Overview
 
